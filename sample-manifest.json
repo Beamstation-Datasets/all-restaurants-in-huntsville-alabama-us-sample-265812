@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0c232880-4fd8-438f-8cf4-873fd51daea4",
+  "id_short": 265812,
+  "published_at": "2026-04-11T19:51:30Z",
+  "repo_name": "all-restaurants-in-huntsville-alabama-us-sample-265812",
+  "sample_asset_name": "beamstation_265812_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/265812/beamstation_265812_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_records": 100,
+  "sample_sha256": "fad268fe57c7af6e4aee24742e184a4aea794e1e8d823adb8309e3fbd83675d4",
+  "sample_size_bytes": 392085,
+  "total_records": 1004
+}
